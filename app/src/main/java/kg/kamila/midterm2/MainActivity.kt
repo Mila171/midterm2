@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         val exit = findViewById<ImageView>(R.id.search)
         exit.setOnClickListener {
             startActivity(Intent(this,MainActivity2::class.java))

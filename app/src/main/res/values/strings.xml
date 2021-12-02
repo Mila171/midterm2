@@ -11,6 +11,7 @@
     <string name="price">$299,43</string>
     <string name="previous_price">$534,33</string>
     <string name="sale">24% Off</string>
+    <string name="search">search</string>
 
 
 </resources>

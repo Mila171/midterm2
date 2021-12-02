@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">midterm2</string>
+
+    <string name="name">Super Flash Sale 50% Off</string>
+    <string name="name2">50% Off</string>
+    <string name="hour">08</string>
+    <string name="minutes">34</string>
+    <string name="seconds">52</string>
+    <string name="product">Nike Air Max 270 React ENG</string>
+    <string name="price">$299,43</string>
+    <string name="previous_price">$534,33</string>
+    <string name="sale">24% Off</string>
+
+
 </resources>

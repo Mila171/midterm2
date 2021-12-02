@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">midterm2</string>
 
-    <string name="name">Super Flash Sale 50% Off</string>
+    <string name="name">Super Flash Sale</string>
+    <string name="title">Super Flash Sale 50% Off</string>
     <string name="name2">50% Off</string>
     <string name="hour">08</string>
     <string name="minutes">34</string>
